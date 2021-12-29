@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/nikolina-ivanova/weaterApp/static/js/main.bba8a2a7.js",
-    "static/js/787.e994c2db.chunk.js": "/nikolina-ivanova/weaterApp/static/js/787.e994c2db.chunk.js",
-    "index.html": "/nikolina-ivanova/weaterApp/index.html",
-    "main.bba8a2a7.js.map": "/nikolina-ivanova/weaterApp/static/js/main.bba8a2a7.js.map",
-    "787.e994c2db.chunk.js.map": "/nikolina-ivanova/weaterApp/static/js/787.e994c2db.chunk.js.map"
+    "main.js": "/weaterApp/static/js/main.9d93e83a.js",
+    "static/js/787.e994c2db.chunk.js": "/weaterApp/static/js/787.e994c2db.chunk.js",
+    "index.html": "/weaterApp/index.html",
+    "main.9d93e83a.js.map": "/weaterApp/static/js/main.9d93e83a.js.map",
+    "787.e994c2db.chunk.js.map": "/weaterApp/static/js/787.e994c2db.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bba8a2a7.js"
+    "static/js/main.9d93e83a.js"
   ]
 }
